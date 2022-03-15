@@ -1,0 +1,238 @@
+#unorder{ 
+    position: absolute;
+    background-color: aqua;
+    list-style-type: none;
+    overflow: auto;
+    transition-property: background-color,transition-delay,animation-iteration-count,animation-delay,border-radius ;
+    transition-duration:2s;
+    width: 1306px;
+    left: 0.1px;
+    top:00.1px;
+    margin-top: 2px;
+   
+   
+}
+
+.list{
+    color: white;
+    padding: 5px 10px;
+    float: left;
+    font-size: 30px;
+    
+
+}
+
+.list:hover{
+    color: blueviolet;
+    cursor: pointer;
+    
+}
+
+#unorder:hover{
+     background-color:rgb(255, 0, 255);
+     transition-delay: 400ms;
+     animation-iteration-count: 3;
+     animation-delay:1s ;
+     border-radius: 20px;
+     
+}
+
+
+
+
+#image2{
+    position: absolute;
+    width: 30%;
+    height: 30%;
+    top:195%;
+    left: 60px;
+    transition-property: border-radius,height,width,box-shadow;
+    transition-duration: 1s;
+        
+}
+
+#image2:hover{
+    border-radius: 20px;
+    height: 40%;
+    width: 40%;
+    box-shadow: 10px 10px 20px 10px aqua;
+    cursor: pointer;
+
+}
+#image3{
+    position: absolute;
+    width: 30%;
+    height: 30%;
+    top: 195%;
+    left: 59%;
+    transition-property: border-radius,height,width,box-shadow;
+    transition-duration :1s;
+        
+}
+
+#image3:hover{
+    border-radius: 20px;
+    height: 40%;
+    width: 40%;
+    box-shadow: 10px 10px 20px 10px aqua;
+    cursor: pointer;
+
+}
+
+#heading1{
+    position: absolute;
+    width: 30%;
+    height: 24%;
+    top: 170%;
+    left: 5%;
+    
+    
+    
+}
+
+
+#heading2{
+    position: absolute;
+    width: 32%;
+    height: 13%;
+    top: 183%;
+    left: 58%;
+    
+    
+}
+
+#heading3{
+    position: absolute;
+    top: 20%;
+    left: 3%;
+    font-size: 50px;
+    font-family:  Georgia, Times, 'Times New Roman', serif;
+    
+    
+}
+    
+
+#marq1{
+    height: 300px;
+    width: 15%;
+    transition-property: height,width,cursor,border-radius;
+    transition-duration: 1s;
+}
+#marq1:hover{
+    height: 400px;
+    width: 17%;
+    cursor: pointer;
+    border-radius: 50px;
+}
+
+#marq2{
+    height: 300px;
+    width: 15%;
+    transition-property: height,width,cursor,border-radius;
+    transition-duration: 1s;
+}
+#marq2:hover{
+    height: 400px;
+    width: 17%;
+    cursor: pointer;
+    border-radius: 50px;
+}
+
+#marq3{
+    height: 300px;
+    width: 15%;
+    transition-property: height,width,cursor,border-radius;
+    transition-duration: 1s;
+}
+#marq3:hover{
+    height: 400px;
+    width: 17%;
+    cursor: pointer;
+    border-radius: 50px;
+}
+
+#marq4{
+    height: 300px;
+    width: 15%;
+    transition-property: height,width,cursor,border-radius;
+    transition-duration: 1s;
+}
+#marq4:hover{
+    height: 400px;
+    width: 17%;
+    cursor: pointer;
+    border-radius: 50px;
+}
+
+#marq5{
+    height: 300px;
+    width: 15%;
+    transition-property: height,width,cursor,border-radius;
+    transition-duration: 1s;
+}
+#marq5:hover{
+    height: 400px;
+    width: 17%;
+    cursor: pointer;
+    border-radius: 50px;
+}
+
+
+#marq0{
+    position: absolute;
+    top: 250%;
+    width: 100%;
+    left: 0.1px;   
+}
+
+#form1{
+    position: absolute;
+    top: 2%;
+    left: 70%;
+    height: auto;
+    font-family: 'Segoe UI', Tahoma, Verdana, sans-serif;
+    margin-top: 1px;
+
+}
+
+#form2{
+    position: relative;
+    border-radius: 6px;
+    margin-top: 1px;
+}
+
+#sub{
+    border-radius: 2px;
+}
+
+#div1{
+    position: absolute;
+    background-image: url('images/background image.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    width: 1348px;
+    height:1999px;
+    top: 49px;
+    left: 0.1px;
+    opacity: 100;
+    transition-property: 1s;
+}
+
+
+
+ 
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+

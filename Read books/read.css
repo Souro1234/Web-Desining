@@ -1,0 +1,189 @@
+#div1{
+    position: absolute;
+    background-image: url('images/div1 image.jpg');
+    background-attachment: fixed;
+    width: 99.99%;
+    height:500%;
+    top: 0.1px;
+    left: 0.01px;
+    opacity: 0.8;   
+}
+
+.div2{
+    position: absolute;
+    top: 90px;
+    left: 5px;
+}
+#div2{   
+    height: 180px;
+    width: 140px;
+    transition-property: height,width,border-radius;
+    transition-duration: 1s;
+}
+
+#div2:hover{
+    height:200px ;
+    width:170px ;
+    border-radius: 20px;
+}
+
+.div3{
+    position: absolute;
+    top: 90px;
+    left: 15%;
+}
+#div3{   
+    height: 180px;
+    width: 140px;
+    transition-property: height,width,border-radius;
+    transition-duration: 1s;
+}
+
+#div3:hover{
+    height:200px ;
+    width:170px ;
+    border-radius: 20px;
+}
+
+.div4{
+    position: absolute;
+    top: 90px;
+    left: 30%;
+}
+#div4{   
+    height: 180px;
+    width: 140px;
+    transition-property: height,width,border-radius;
+    transition-duration: 1s;
+}
+
+#div4:hover{
+    height:200px ;
+    width:170px ;
+    border-radius: 20px;
+}
+
+
+.div5{
+    position: absolute;
+    top: 90px;
+    left: 45%;
+}
+#div5{   
+    height: 180px;
+    width: 140px;
+    transition-property: height,width,border-radius;
+    transition-duration: 1s;
+}
+
+#div5:hover{
+    height:200px ;
+    width:170px ;
+    border-radius: 20px;
+}
+
+.div6{
+    position: absolute;
+    top: 90px;
+    left: 60%;
+}
+#div6{   
+    height: 180px;
+    width: 140px;
+    transition-property: height,width,border-radius;
+    transition-duration: 1s;
+}
+
+#div6:hover{
+    height:200px ;
+    width:170px ;
+    border-radius: 20px;
+}
+
+.div7{
+    position: absolute;
+    top: 90px;
+    left: 75%;
+}
+#div7{   
+    height: 180px;
+    width: 140px;
+    transition-property: height,width,border-radius;
+    transition-duration: 1s;
+}
+
+#div7:hover{
+    height:200px ;
+    width:170px ;
+    border-radius: 20px;
+}
+
+
+
+#div22{
+    text-decoration: underline;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    transition-property: font-size,cursor;
+    transition-duration: 0.1s;
+}
+
+#div22:hover{
+    font-size: 20px;
+    cursor: pointer;
+}
+
+#div33{
+    text-decoration: underline;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    transition-property: font-size,cursor;
+}
+
+#div33:hover{
+    font-size: 20px;
+    cursor: pointer;
+}
+
+#div44{
+    text-decoration: underline;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    transition-property: font-size,cursor;
+}
+
+#div44:hover{
+    font-size: 20px;
+    cursor: pointer;
+}
+
+#div55{
+    text-decoration: underline;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    transition-property: font-size,cursor;
+}
+
+#div55:hover{
+    font-size: 20px;
+    cursor: pointer;
+}
+
+#div66{
+    text-decoration: underline;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    transition-property: font-size,cursor;
+}
+
+#div66:hover{
+    font-size: 20px;
+    cursor: pointer;
+}
+
+#div77{
+    text-decoration: underline;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    transition-property: font-size,cursor;
+}
+
+#div77:hover{
+    font-size: 20px;
+    cursor: pointer;
+}
+
