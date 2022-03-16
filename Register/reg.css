@@ -47,6 +47,7 @@
     left: 48% ;
     transition-property:box-shadow ;
     transition-duration: 1s;   
+    
 }
 
 #form4:hover{
@@ -66,7 +67,9 @@
     position: absolute;
     top: 60%;
     left: 2%;
+    
 }
+
 
 #form15{
     position: absolute;
@@ -95,6 +98,7 @@
 #fname{
     transition-property:box-shadow ;
     transition-duration: 1s;
+    background: transparent;
 
 }
 
@@ -106,6 +110,7 @@
 #mname{
     transition-property:box-shadow ;
     transition-duration: 1s;
+    background: transparent;
 }
 
 #mname:hover{
@@ -116,6 +121,7 @@
 #lname{
     transition-property:box-shadow ;
     transition-duration: 1s;
+    background: transparent;
 }
 
 #lname:hover{
@@ -126,6 +132,7 @@
 #adname{
     transition-property:box-shadow ;
     transition-duration: 1s;
+    background: transparent;
 }
 
 #adname:hover{
@@ -136,6 +143,7 @@
 #cityname{
     transition-property:box-shadow ;
     transition-duration: 1s;
+    background: transparent;
 }
 
 #cityname:hover{
@@ -146,6 +154,7 @@
 #Statename{
     transition-property:box-shadow ;
     transition-duration: 1s;
+    background: transparent;
 }
 
 #Statename:hover{
@@ -156,6 +165,7 @@
 #postalname{
     transition-property:box-shadow ;
     transition-duration: 1s;
+    background: transparent;
 }
 
 #postalname:hover{
@@ -166,6 +176,7 @@
 #number{
     transition-property:box-shadow ;
     transition-duration: 1s;
+    background: transparent;
 }
 
 #number:hover{
@@ -176,6 +187,7 @@
 #Email{
     transition-property:box-shadow ;
     transition-duration: 1s;
+    background: transparent;
 }
 
 #Email:hover{
