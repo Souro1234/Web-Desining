@@ -12,7 +12,7 @@
 .div2{
     position: absolute;
     top: 90px;
-    left: 5px;
+    left: 19%;
 }
 #div2{   
     height: 180px;
@@ -29,8 +29,8 @@
 
 .div3{
     position: absolute;
-    top: 90px;
-    left: 15%;
+    top: 95%;
+    left: 19%;
 }
 #div3{   
     height: 180px;
@@ -47,8 +47,8 @@
 
 .div4{
     position: absolute;
-    top: 90px;
-    left: 30%;
+    top: 55%;
+    left: 19%;
 }
 #div4{   
     height: 180px;
@@ -66,8 +66,8 @@
 
 .div5{
     position: absolute;
-    top: 90px;
-    left: 45%;
+    top: 135%;
+    left: 19%;
 }
 #div5{   
     height: 180px;
@@ -84,8 +84,8 @@
 
 .div6{
     position: absolute;
-    top: 90px;
-    left: 60%;
+    top: 175%;
+    left: 19%;
 }
 #div6{   
     height: 180px;
@@ -102,8 +102,8 @@
 
 .div7{
     position: absolute;
-    top: 90px;
-    left: 75%;
+    top: 215%;
+    left: 19%;
 }
 #div7{   
     height: 180px;
@@ -121,21 +121,39 @@
 
 
 #div22{
+    position: absolute;
     text-decoration: underline;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-    transition-property: font-size,cursor;
+    transition-property: font-size,cursor,box-shadow;
     transition-duration: 0.1s;
+    left: 130%;
+    top: 1px;
 }
 
 #div22:hover{
     font-size: 20px;
     cursor: pointer;
+   
+}
+
+#div222{
+    position: absolute;
+    width: 900px;
+    left: 32%;
+    top: 20%;
+    font-size: 20px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
 
 #div33{
+    position: absolute;
     text-decoration: underline;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     transition-property: font-size,cursor;
+    transition-duration: 0.1s;
+    height: 10px;
+    left: 130%;
+    top: 3px;
 }
 
 #div33:hover{
@@ -143,10 +161,24 @@
     cursor: pointer;
 }
 
+#div333{
+    position: absolute;
+    width: 900px;
+    left: 32%;
+    top: 61%;
+    font-size: 20px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
 #div44{
+    position: absolute;
     text-decoration: underline;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     transition-property: font-size,cursor;
+    transition-duration: 0.1s;
+    height: 10px;
+    left: 130%;
+    top: 2px;
 }
 
 #div44:hover{
@@ -154,36 +186,180 @@
     cursor: pointer;
 }
 
+#div444{
+    position: absolute;
+    width: 900px;
+    left: 32%;
+    top: 102%;
+    font-size: 20px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
 #div55{
+    position: absolute;
     text-decoration: underline;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     transition-property: font-size,cursor;
+    transition-duration: 0.1s;
+    height: 10px;
+    left: 130%;
+    top: 4px;
 }
 
 #div55:hover{
     font-size: 20px;
     cursor: pointer;
 }
+#div555{
+    position: absolute;
+    width: 900px;
+    left: 32%;
+    top: 143%;
+    font-size: 20px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
 
 #div66{
+    position: absolute;
     text-decoration: underline;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     transition-property: font-size,cursor;
+    transition-duration: 0.1s;
+    height: 10px;
+    left: 130%;
+    top: 5px;
 }
 
 #div66:hover{
     font-size: 20px;
     cursor: pointer;
 }
+#div666{
+    position: absolute;
+    width: 900px;
+    left: 32%;
+    top: 184%;
+    font-size: 20px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
 
 #div77{
+    position: absolute;
     text-decoration: underline;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     transition-property: font-size,cursor;
+    transition-duration: 0.1s;
+    height: 10px;
+    left: 130%;
+    top: 6px;
 }
 
 #div77:hover{
     font-size: 20px;
     cursor: pointer;
 }
+#div777{
+    position: absolute;
+    width: 900px;
+    left: 32%;
+    top: 224%;
+    font-size: 20px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+#div8{
+    position: absolute;
+    background-color: rgb(212, 226, 221);
+    top: 90px;
+    height: 300% ;
+    width: 200px;
+    transition-property: border-radius;
+    transition-duration:1s ;
+    opacity: 0.3;
+}
+
+#div8:hover{
+     border-radius: 10px;
+}
+
+#div9{
+    position: absolute;
+    background-color: rgb(107, 247, 193);
+    top: 90px;
+    left: 17%;
+    height: 200px ;
+    width: 900px;
+    transition-property: border-radius;
+    transition-duration:1s ;
+    opacity: 0.3;
+}
+ 
+#div10{
+    position: absolute;
+    background-color: rgb(107, 247, 193);
+    top: 11%;
+    left: 17%;
+    height: 200px ;
+    width: 900px;
+    transition-property: border-radius;
+    transition-duration:1s ;
+    opacity: 0.3;
+}
+
+#div11{
+    position: absolute;
+    background-color: rgb(107, 247, 193);
+    top: 19%;
+    left: 17%;
+    height: 200px ;
+    width: 900px;
+    transition-property: border-radius;
+    transition-duration:1s ;
+    opacity: 0.3;
+}
+
+#div12{
+    position: absolute;
+    background-color: rgb(107, 247, 193);
+    top: 27%;
+    left: 17%;
+    height: 200px ;
+    width: 900px;
+    transition-property: border-radius;
+    transition-duration:1s ;
+    opacity: 0.3;
+}
+
+#div13{
+    position: absolute;
+    background-color: rgb(107, 247, 193);
+    top: 35%;
+    left: 17%;
+    height: 200px ;
+    width: 900px;
+    transition-property: border-radius;
+    transition-duration:1s ;
+    opacity: 0.3;
+}
+
+#div14{
+    position: absolute;
+    background-color: rgb(107, 247, 193);
+    top: 43%;
+    left: 17%;
+    height: 200px ;
+    width: 900px;
+    transition-property: border-radius;
+    transition-duration:1s ;
+    opacity: 0.3;
+}
+
+
+
+#div15{
+    position: absolute;
+    top: 99px;
+    left: 30px; 
+}
+
 
