@@ -218,7 +218,85 @@
     transition-property: 1s;
 }
 
+#animate1{
+    
+    height: 100px;
+    width: 500px;
+    animation-name:changecolor1;
+    animation-duration: 20s;
+    animation-iteration-count: infinite;
+    background-repeat: no-repeat;
+    border-radius: 50px;
+}
 
+@keyframes changecolor1{
+    0%{background-color: aqua;width: 500px; }
+    25%{background-color:blue;width: 100px; }
+    50%{background-color:blueviolet;width: 500px; }
+    75%{background-color:brown;width: 100px; }
+    100%{background-color:chartreuse;width: 500px; }
+}
+
+#animate2{
+    
+    height: 100px;
+    width: 500px;
+    animation-name:changecolor2;
+    animation-duration: 20s;
+    animation-iteration-count: infinite;
+    background-repeat: no-repeat;
+    border-radius: 50px;
+}
+
+@keyframes changecolor2{
+    0%{background-color: aqua;width: 100px; }
+    25%{background-color:blue;width: 500px; }
+    50%{background-color:blueviolet;width: 100px; }
+    75%{background-color:brown;width: 500px; }
+    100%{background-color:chartreuse;width: 100px; }
+}
+
+#animate3{
+    
+    height: 100px;
+    width: 500px;
+    animation-name:changecolor3;
+    animation-duration: 20s;
+    animation-iteration-count: infinite;
+    background-repeat: no-repeat;
+    border-radius: 50px;
+}
+
+@keyframes changecolor3{
+    0%{background-color: aqua;width: 500px; }
+    25%{background-color:blue;width: 100px; }
+    50%{background-color:blueviolet;width: 500px; }
+    75%{background-color:brown;width: 100px; }
+    100%{background-color:chartreuse;width: 500px; }
+}
+#animate4{
+    
+    height: 100px;
+    width: 500px;
+    animation-name:changecolor4;
+    animation-duration: 20s;
+    animation-iteration-count: infinite;
+    background-repeat: no-repeat;
+    border-radius: 50px;
+}
+
+@keyframes changecolor4{
+    0%{background-color: aqua;width: 100px; }
+    25%{background-color:blue;width: 500px; }
+    50%{background-color:blueviolet;width: 100px; }
+    75%{background-color:brown;width: 500px; }
+    100%{background-color:chartreuse;width: 100px; }
+}
+#iframe{
+    position: absolute;
+    top: 500px;
+    left: 100%;
+}
 
  
 

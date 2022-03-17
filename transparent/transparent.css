@@ -1,0 +1,15 @@
+#animate{
+    background-color: red;
+    height: 500px;
+    animation-name:changecolor;
+    animation-duration: 10s;
+    animation-iteration-count: infinite;
+}
+
+@keyframes changecolor{
+    0%{background-image: url("images/children"); width: 200px;}
+    25%{background-image: url("images/children2"); width:300px}
+    50%{background-image: url("images/children3"); width:200px ;}
+    75%{background-image: url("images/children4"); width: 300px;}
+    100%{background-image: url("images/children5");width: 200px;}
+}
