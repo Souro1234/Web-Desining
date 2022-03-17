@@ -274,11 +274,11 @@
     75%{background-color:brown;width: 100px; }
     100%{background-color:chartreuse;width: 500px; }
 }
-#animate4{
+#animate4,#para1{
     
     height: 100px;
     width: 500px;
-    animation-name:changecolor4;
+    animation-name:changecolor4,changeposition5;
     animation-duration: 20s;
     animation-iteration-count: infinite;
     background-repeat: no-repeat;
@@ -292,14 +292,41 @@
     75%{background-color:brown;width: 500px; }
     100%{background-color:chartreuse;width: 100px; }
 }
-#iframe{
+
+
+
+
+#iframe1{
     position: absolute;
     top: 500px;
-    left: 100%;
+    left: 110%;
 }
 
- 
+#iframe2{
+    position: absolute;
+    top: 10px;
+    left: 110%;
+    
+}
 
+
+/* #para1{ 
+    
+    animation-name:changeposition;
+    animation-duration: 20s;
+    animation-iteration-count: infinite;
+    background-repeat: no-repeat;
+    
+    
+}*/
+ 
+/* @keyframes changeposition{ 
+    0%{font-size: 100px;}
+    25%{font-size: 500px;}
+    50%{font-size: 100px; }
+    75%{font-size: 500px; }
+    100%{ font-size: 100px;}
+} */
     
 
 
