@@ -97,14 +97,9 @@
 }
 
 #fname{
-    transition-property:box-shadow ;
+    transition-property:box-shadow;
     transition-duration: 1s;
-<<<<<<< HEAD
     background: transparent;
-=======
-    
->>>>>>> 3961e85c6f44926e2e4f8752a850502e2d8cd97a
-
 }
 
 #fname:hover{
