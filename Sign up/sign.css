@@ -1,0 +1,176 @@
+#div1{
+    position: absolute;
+    background:linear-gradient(skyblue,violet,pink);
+    height: 99.99%;
+    width: 99.9%;
+    top: 0.1px;
+    left: 1px;
+}
+
+#div2{
+    position:absolute;
+    background:linear-gradient(pink,violet,skyblue);
+    height: 80%;
+    width: 30%;
+    left: 33%;
+    top: 60px;
+    box-shadow: 9px 9px 30px 10px black; 
+    opacity: 0.2;
+    transition-property: border-radius , background-color;
+    transition-duration: 1s;
+}
+
+#div2:hover{
+    border-radius: 50px;
+
+}
+#div3{
+    position: absolute;
+    top: 10%;
+    font-size: 30px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    left: 41.2%;
+    text-decoration: underline;
+}
+
+#div4{
+    position: absolute;
+    top: 30%;
+    left: 39%;
+}
+
+#text1{
+    position: absolute;
+    height: 30px;
+    width: 250px;
+    background: transparent;
+    font-size: 20px;
+    border-radius: 10px;
+}
+
+#div5{
+    position: absolute;
+    top: 40%;
+    left: 39%;
+}
+
+#text2{
+    position: absolute;
+    height: 30px;
+    width: 250px;
+    background: transparent;
+    font-size: 20px;
+    border-radius: 10px;
+}
+
+#div6{
+    position: absolute;
+    top: 50%;
+    left: 39%;
+}
+
+#text3{
+    position: absolute;
+    height: 30px;
+    width: 250px;
+    background: transparent;
+    font-size: 20px;
+    border-radius: 10px;
+}
+
+#div7{
+    position: absolute;
+    top: 60%;
+    left: 39%;
+}
+
+#text4{
+    position: absolute;
+    height: 30px;
+    width: 250px;
+    background: transparent;
+    font-size: 20px;
+    border-radius: 10px;
+}
+
+#div8{
+    position: absolute;
+    top: 70%;
+    left: 44.2%;
+}
+
+#sub1{
+    position: absolute;
+    font-size: 20px;
+    border-radius:10px;
+    background:linear-gradient(skyblue,violet,pink);
+
+}
+
+#div9{
+    position: absolute;
+    top: 20%;
+    font-size: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    left: 39%;
+    text-decoration: underline;
+}
+
+#div10{
+    position: absolute;
+    top: 80%;
+    left: 38.1%;
+}
+
+#div11{
+    position: absolute;
+    top:80%;
+    left: 51%;
+}
+
+#profile{
+    position: absolute;
+    top: 29.5%;
+    left: 35%;
+}
+
+#profile1{
+    height: 40px;
+    width: 40px;
+}
+
+#pass1{
+    position: absolute;
+    top: 39%;
+    left: 35%;
+}
+
+#pass2{
+    height: 40px;
+    width: 40px;
+}
+
+#pass3{
+    position: absolute;
+    top: 49%;
+    left: 35%;
+   
+}
+
+#pass4{
+    height: 40px;
+    width: 40px;
+    
+}
+
+#email{
+    position: absolute;
+    top: 60%;
+    left: 35%;
+}
+
+#email1{
+    height: 40px;
+    width: 40px;
+}
+

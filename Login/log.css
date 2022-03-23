@@ -1,179 +1,176 @@
 
-
-#input {
+#div1{
   position: absolute;
-  top: 300px;
-  left: 36%;
-  text-align: center;
-  font-size: 40px;
-  border-color: blueviolet;
-  
- 
-}
-
-
-
-
-#input1 {
-  position: absolute;
-  top: 370px;
-  left: 36%;
-  text-align: center;
-  font-size: 40px;
-  border-color: blueviolet;
-  
- 
-}
-
-
-
-#container1{
-  position: absolute;
-  height: 100%;
+  background-image: url("image/login-security.png");
+  height: 99.99%;
   width: 99.99%;
   top: 0.1px;
-  left: 0.01%;
-  border-radius: none;
-  
-  
+  left: 0.1px;
 }
 
-#container2{
-  position: absolute;
-  height: 15%;
-  width: 10%;
-  left: 43%;
+#div2{
+  position:absolute;
+  /* background:linear-gradient(#93169a,#8727d8,#241fe0) ; */
+  background: linear-gradient(#042f50,#075795,#0a7ad0,#2199f5,#5bb3f7);
+  height: 80%;
+  width: 30%;
+  left: 33%;
+  top: 60px;
+  box-shadow: 9px 9px 30px 10px black; 
   
-  
-  
-}
-
-
-#sub{
-  position: absolute;
-  top:55%;
-  left:36% ;
-  
-
-  
-}
-
-#sub1{
-  position: absolute;
-  transition-property: border-radius,font-size,box-shadow;
+  transition-property: border-radius , background-color;
   transition-duration: 1s;
-  transition-delay: 500ms; 
-  animation-duration: 1s;
-  animation-delay: 1s;
-  cursor: pointer;
-  font-size: 25px;
-  border-radius: 10px;
-
-  
-  
-
 }
 
-#sub1:hover{
-  color: blue;
-  border-radius: 10px;
-  box-shadow: 5px 5px 50px 10px rgb(0, 183, 255);
-}
-
-#Reg{
-  position:absolute;
-  top: 600px;
-  left: 34%;
-  font-size: 25px;
-  font-family:Georgia, 'Times New Roman', Times, serif;
-}
-
-
-
-
-#sign{
-  position:absolute;
-  top: 600px;
-  left: 42%;
-  font-size: 25px;
-  font-family:Georgia, 'Times New Roman', Times, serif;
-  
-}
-
-#for{
-  position:absolute;
-  top: 600px;
-  left: 49%;
-  font-size: 25px;
-  font-family:Georgia, 'Times New Roman', Times, serif;
-  
-}
-
-#log1{
-  position: absolute;
-  top: 105px;
-  left: 41%;
-  font-size: 47px;
-  text-decoration: underline;
-  
-}
-
-#log2{
-  position: absolute;
-  top: 199px;
-  left: 36%;
-  font-size: 30px;
-  text-decoration: underline;
-}
-
-
-#continer{
-  position: absolute;
-  top: 126px;
-  left: 32%;
-  height:75%;
-  width:33%;
-  background-color: rgb(255, 71, 194);
-  opacity: 0.3;
+#div2:hover{
   border-radius: 50px;
-  transition-property: box-shadow;
-  transition-duration: 1s;
-}
 
-#continer:hover{
-  box-shadow: 5px 5px 20px 20px rgb(255, 0, 0);
 }
-
-#text{
+#div3{
   position: absolute;
-  font-size: 20px;
-  top: 13px;
-  transition-property: box-shadow,border-radius;
-  transition-duration: 1s;
-  
-
+  top: 10%;
+  font-size: 30px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  left: 41.2%;
+  text-decoration: underline;
 }
 
-#text:hover{
-  box-shadow: 5px 5px 50px 10px rgb(255, 251, 0);
-  border-radius: 10px;
-  
+#div4{
+  position: absolute;
+  top: 30%;
+  left: 38.1%;
 }
 
 #text1{
   position: absolute;
-  font-size: 20px;
-  top: 13px;
-  left: 105%;
-  transition-property: box-shadow,border-radius;
-  transition-duration: 1s;
-}
-
-#text1:hover{
-  box-shadow: 5px 5px 50px 10px rgb(255, 251, 0);
+  height: 45px;
+  width: 350px;
+  background: linear-gradient(#075795,#0a7ad0,#2199f5,#5bb3f7);
+  font-size: 30px;
   border-radius: 10px;
   
+  
 }
+
+#div5{
+  position: absolute;
+  top: 40%;
+  left: 38.1%;
+}
+
+#text2{
+  position: absolute;
+  height: 45px;
+  width: 350px;
+  background: linear-gradient(#075795,#0a7ad0,#2199f5,#5bb3f7);
+  font-size: 30px;
+  border-radius: 10px;
+}
+
+#div6{
+  position: absolute;
+  top: 50%;
+  left: 38.1%;
+}
+
+#text3{
+  position: absolute;
+  height: 30px;
+  width: 250px;
+  background: transparent;
+  font-size: 20px;
+  border-radius: 10px;
+}
+
+#div7{
+  position: absolute;
+  top: 60%;
+  left: 38.1%;
+}
+
+#text4{
+  position: absolute;
+  height: 30px;
+  width: 250px;
+  background: transparent;
+  font-size: 20px;
+  border-radius: 10px;
+}
+
+#div8{
+  position: absolute;
+  top: 50%;
+  left: 38.1%;
+}
+
+
+
+#sub1{
+  position: absolute;
+  font-size: 30px;
+  border-radius:10px;
+  background:linear-gradient(#042f50,#075795,#0a7ad0,#2199f5,#5bb3f7);
+
+}
+#sub1:hover{
+  cursor: pointer;
+}
+#div9{
+  position: absolute;
+  top: 20%;
+  font-size: 25px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  left: 40%;
+  text-decoration: underline;
+}
+
+#div10{
+  position: absolute;
+  top: 80%;
+  left: 38.1%;
+}
+
+#Reg{
+  position:absolute;
+  top: 70%;
+  left: 50%;
+  font-size: 25px;
+  font-family:Georgia, 'Times New Roman', Times, serif;
+}
+
+#Reg2{
+  position: absolute;
+  left: 38.1%;
+  top: 70%;
+  font-size: 23px;
+}
+
+
+#sign{
+  position:absolute;
+  top: 65%;
+  left: 50%;
+  font-size: 25px;
+  font-family:Georgia, 'Times New Roman', Times, serif;
+  
+}
+
+#sign2{
+  position: absolute;
+  left: 38.1%;
+  top: 65%;
+  font-size: 23px;
+}
+
+#for{
+  position:absolute;
+  top: 55%;
+  left:38.1%;
+  font-size: 25px;
+  font-family:Georgia, 'Times New Roman', Times, serif;
+  
+}
+
 
 #reg1{
   transition-property: font-size;
@@ -196,12 +193,13 @@
 
 
 #for1{
-  transition-property: font-size;
+  transition-property: font-size,cursor;
   transition-duration: 0.1s;
 }
 
 #for1:hover{
   font-size: 30px;
+  cursor: pointer;
 }
 
 #reg0{
@@ -211,3 +209,27 @@
 #sign0{
   text-decoration: none;
 }
+
+#profile{
+  position: absolute;
+  left: 35%;
+  top: 30%;
+}
+
+#profile1{
+  height: 50px;
+  width: 50px;
+}
+
+#pass{
+  position: absolute;
+  left:35%;
+  top:39.5% ;
+
+}
+
+#pass1{
+   height: 50px;
+   width: 50px ;
+}
+
