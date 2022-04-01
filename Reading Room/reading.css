@@ -1,0 +1,194 @@
+.div1{
+    position: absolute;
+    background-image: url("images/books.jpeg");
+    background-attachment: fixed;
+    height: 500%;
+    width: 99.99%;
+    opacity: 0.7;
+    left: 0.1px;
+    top: 0.1px;
+    
+}
+
+.div2{
+    position: absolute;
+    background-color: rgb(63, 65, 64);
+    width: 1310px;
+    height: 10%;
+    left: 17px;
+    top:10px;
+    border-radius: 20px;
+    opacity: 0.7;
+}
+
+.div3{
+    position: absolute;
+    left: 75%;
+    top: 30px;
+}
+
+#form2{
+    border-radius: 10px;
+}
+
+#sub{
+    border-radius: 10px;
+}
+
+.div4{
+    position: absolute;
+    top: 100px;
+    left: 17px;
+}
+
+#h1{
+    font-family:Arial, Helvetica, sans-serif;
+    text-decoration: underline;
+}
+
+.div5{
+    position: absolute;
+    background: linear-gradient(aqua,rgb(0, 255, 179),rgb(0, 119, 255));
+    height: 350px;
+    width: 300px;
+    top: 170px;
+    border-radius: 50px;
+    opacity: 0.7;
+    font-size: 30px;
+}
+
+#para1{
+    position: absolute;
+    left: 10px;
+}
+
+.div6{
+    position: absolute;
+    top: 65%;
+    left: 70px;
+    transition-property:cursor;
+    text-decoration: underline;
+}
+
+.div6:hover{
+    cursor: pointer;
+}
+
+#div66{
+    transition-property: color,font-size;
+    transition-duration: 0.1s;
+
+}
+
+#div66:hover{
+    color: yellow;
+    font-size: 20px;
+}
+
+
+
+
+.div7{
+    position: absolute;
+    top: 100px;
+    left: 500px;
+}
+
+#h2{
+    font-family:Arial, Helvetica, sans-serif;
+    text-decoration: underline;
+}
+
+.div8{
+    position: absolute;
+    background: linear-gradient(aqua,rgb(0, 255, 179),rgb(0, 119, 255));
+    height: 350px;
+    width: 300px;
+    top: 170px;
+    border-radius: 50px;
+    opacity: 0.8;
+    font-size: 30px;
+    left: 500px;
+}
+
+#para2{
+    position: absolute;
+    left: 10px;
+}
+
+.div9{
+    position: absolute;
+    top: 65%;
+    left: 580px;
+    transition-property:cursor;
+    text-decoration: underline;
+}
+
+.div9:hover{
+    cursor: pointer;
+}
+
+#div99{
+    transition-property: color,font-size;
+    transition-duration: 0.1s;
+
+}
+
+#div99:hover{
+    color: yellow;
+    font-size: 20px;
+}
+
+
+
+
+.div10{
+    position: absolute;
+    top: 100px;
+    left: 980px;
+}
+
+#h3{
+    font-family:Arial, Helvetica, sans-serif;
+    text-decoration: underline;
+}
+
+.div11{
+    position: absolute;
+    background: linear-gradient(aqua,rgb(0, 255, 179),rgb(0, 119, 255));
+    height: 350px;
+    width: 300px;
+    top: 170px;
+    border-radius: 50px;
+    opacity: 0.8;
+    font-size: 30px;
+    left: 980px;
+}
+
+#para3{
+    position: absolute;
+    left: 10px;
+}
+
+.div12{
+    position: absolute;
+    top: 65%;
+    left: 1050px;
+    transition-property:cursor;
+    text-decoration: underline;
+}
+
+.div12:hover{
+    cursor: pointer;
+}
+
+#div120{
+    transition-property: color,font-size;
+    transition-duration: 0.1s;
+
+}
+
+#div120:hover{
+    color: yellow;
+    font-size: 20px;
+}
